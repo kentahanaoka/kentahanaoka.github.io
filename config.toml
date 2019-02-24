@@ -1,4 +1,4 @@
-baseURL = "https://kentahanaoka.github.io/hanaokapage/"
+baseURL = "kentahanaoka.github.io /config.toml"
 title = "hamu_page"
 languageCode = "ja-jp"
 paginate = "10" # Number of posts per page
